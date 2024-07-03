@@ -7,8 +7,8 @@
     "travelogue": "~0.4.2",
     "yar": "~0.4.0",
     "passport": "~0.1.17",
-    "hapi": "~1.20.0",
-    "jade": "~0.35.0",
+    "hapi": "~18.1.0",
+    "jade": "~1.11.0",
     "passport-local": "~0.1.6"
   },
   "devDependencies": {
